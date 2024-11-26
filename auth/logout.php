@@ -1,4 +1,5 @@
 <?php
+#mamah ini logout
 session_start();
 
 session_unset();
